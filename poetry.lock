@@ -1233,8 +1233,8 @@ python-versions = "*"
 pytz = "*"
 
 [[package]]
-name = "git+https://github.com/ivanserachev/alchemy1_4.git"
-version = "1.4"
+name = "sqlalchemy"
+version = "1.4.44"
 description = "Database Abstraction Library"
 category = "main"
 optional = false
